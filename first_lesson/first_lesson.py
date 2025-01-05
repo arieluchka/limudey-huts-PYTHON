@@ -1,4 +1,5 @@
 yum = "helloworldiloveicecream"
+#      0123456789.....        #
 
 ########### 1) print the character on index 5 ###################
 
@@ -15,3 +16,4 @@ yum = "helloworldiloveicecream"
 
 
 ########### 5) print(yum[10:15]) ###################
+
