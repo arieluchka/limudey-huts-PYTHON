@@ -32,6 +32,6 @@ state_names=["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado
 
 
 # 9) Uncomment the next print and run it.
-print(state_names[10][0:2] + state_names[2][5:7] + " " + state_names[25])
+#print(state_names[10][0:2] + state_names[2][5:7] + " " + state_names[25])
 
 #  How do you think this happend? Try to break it down!
