@@ -30,7 +30,7 @@ adverbs = ["quickly", "slowly", "happily", "lazily", "carefully", "loudly", "gra
 # Try to print the next sentences:
 
 # 1) "I read well"
-
+print(verbs)
 # 2) "A dog runs quickly"
 
 # 3) "he writes lazily"
