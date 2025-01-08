@@ -26,8 +26,7 @@ also exercises by [concepts](https://exercism.org/tracks/python/concepts)
 ## Mobile games 
 Are great for developing programming logic, and problem solving skills!
 
-#### [Human Resource Machine (20 nis)](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine&hl=en)
-very recommended!
+#### [Human Resource Machine (20 nis)](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine&hl=en) (very recommended!)
 
 #### [Algorun (free for the first lvls)](https://play.google.com/store/apps/details?id=com.bitcrumbs.AlgoRunFree&hl=en)
 
