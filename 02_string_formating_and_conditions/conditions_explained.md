@@ -131,3 +131,74 @@ withdrawal_amount = 500
 if bank_balance >= withdrawal_amount:
     print("You have sufficient balance to withdraw.")
 ```
+
+### Using "in"
+The `in` operator checks for membership. It’s used to **verify if an element exists** within a collection like a list, set, or dictionary.
+
+*Check if an item is in a list*
+```python
+allowed_users = ["admin", "manager", "staff"]
+user = "manager"
+
+if user in allowed_users:
+    print("Welcome to the system!")
+```
+
+*Check if a key is in a dictionary*
+```python
+user_roles = {"admin": 1, "manager": 2, "staff": 3}
+role = "manager"
+
+if role in user_roles:
+    print("Role found in the system!")
+```
+
+*Check if a character exists in a string*
+```python
+message = "Hello, world!"
+if "H" in message:
+    print("The message starts with 'H'!")
+```
+
+### Using "is"
+The `is` operator checks for object identity. It verifies if two variables refer to **the same object in memory.**
+
+```python
+a = [1, 2, 3]
+b = a
+
+if a is b:
+    print("Both variables point to the same object!")
+```
+
+```python
+result = None
+
+if result is None:
+    print("No result available!")
+```
+
+```python
+status = True
+
+if status is True:
+    print("Operation was successful!")
+```
+
+#### `==` VS `is`
+The `==` operator checks for value equality, while `is` checks if two variables refer to the same object.
+
+
+```python
+x = [1, 2, 3]
+y = [1, 2, 3]
+z = x
+
+# Value equality
+if x == y:
+    print("x and y have the same value!")
+
+# Identity equality
+if x is z:
+    print("x and z point to the same object!")
+```
