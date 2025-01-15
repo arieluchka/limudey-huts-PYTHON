@@ -18,3 +18,51 @@ example 2:
 
     "20 is an even number"
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##################################################################################################################
+# SOLUTION
+##################################################################################################################
+#
+# user_num = int(input("please enter a number to check if it's odd or even: "))
+#
+# if (user_num % 2) == 0:
+#     print(f"The number {user_num} is even")
+# else:
+#     print(f"The number {user_num} is odd")

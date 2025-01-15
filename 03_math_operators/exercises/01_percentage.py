@@ -13,3 +13,51 @@ example 2:
     3 is 60% of 5
 """
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##################################################################################################################
+# SOLUTION
+##################################################################################################################
+#
+# num1 = int(input("please enter the first number: "))
+# num2 = int(input("please enter the second number: "))
+#
+# # percentage = int((num1 / num2) * 100)
+# percentage = (num1 * 100) // num2
+#
+# print(percentage)
+#
+# print(f"The number {num1} is {percentage}% of the number {num2}")
+#
