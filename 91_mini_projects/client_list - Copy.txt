@@ -1,0 +1,2 @@
+user_id:444444444,first_name:Ariel,last_name:tzur,balance:100
+user_id:532523552,balance:555,first_name:ariel,last_name:agranovich
